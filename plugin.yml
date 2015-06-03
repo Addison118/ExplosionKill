@@ -1,0 +1,7 @@
+name: ExplosionKill
+main: com.solarburst.addisonep.ExplosionKill
+version: 1.0
+commands:
+	kill:
+		description: kills player with an explosion
+		usage: /kill <player>
