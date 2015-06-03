@@ -5,7 +5,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class FirstPlugin extends JavaPlugin {
+public class ExplosionKill extends JavaPlugin {
 	
 	@Override
 	public void onEnable() {
