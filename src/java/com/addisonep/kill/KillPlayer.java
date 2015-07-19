@@ -9,7 +9,7 @@ public class ExplosionKill extends JavaPlugin {
 	
 	@Override
 	public void onEnable() {
-		getLogger().info("onEnable has been enabled!");
+		getLogger().info("Explosion kill has been loaded!");
 	}
 	
 	@Override
